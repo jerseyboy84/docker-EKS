@@ -4,9 +4,11 @@
         {
             "Effect": "Allow",
             "Principal": {
-                "AWS": "arn:aws:iam::519002666132:root"
+                "AWS": "arn:aws:iam::187816014454:user/jerseyboy84"
             },
             "Action": "sts:AssumeRole"
         }
     ]
 }
+
+
